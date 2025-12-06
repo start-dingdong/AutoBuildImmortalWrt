@@ -9,7 +9,7 @@
 #动态DNS服务
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-ddns"
 #阿里云动态DNS服务
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-aliddns"
+#CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-aliddns"
 # 首页和网络向导
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-quickstart-zh-cn"
 # 高级卸载 by YT Vedio Talk
